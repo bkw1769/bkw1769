@@ -59,6 +59,10 @@
 - SQLite 사용 → 서버 없이 경량 구조 구현
 - [App Store 보기](https://apps.apple.com/us/app/id6711336713)
 
+### 💯 점수판앱 (출시전)
+- Flutter 점수판앱
+- SQLite 사용 → 서버 없이 경량 구조 구현
+
 ### 🧳 베스틴 무역 웹사이트
 - Spring 기반 웹/어드민 API 서버 구축 (기존 PHP 전환)
 - Nginx + HTTPS + 도메인 연결 직접 설정
